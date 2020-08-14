@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+ul{
+  background-color: red;
+  width:200px
+}
+.student-card{
+  border:2px solid black;
+  width:200px
+}
+.studentss{
+  background-color: salmon;
+  display:flex;
+  justify-content: space-between;
+}
+.yelow{background-color: yellow;}
+.red{background-color: red;}
+.blue{background-color: blue;}
+.white{background-color: white;}
